@@ -28,7 +28,7 @@
 
 <br>
 
-## 🏆 Awards & Achievement
+## 🏆 Awards
 - **KISA 사이버보안 인재 양성 프로젝트 연계 통합 해커톤 - Top Prize**
 
 <br>
