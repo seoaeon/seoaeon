@@ -12,7 +12,7 @@
 - **Threat Intelligence**: Collecting and analyzing threat data to understand emerging cyber risks.
 - **Penetration Testing**: Exploring security loopholes and performing ethical hacking to strengthen systems.
 - **Security Automation**: Automating repetitive security tasks and processes for improved efficiency.
-
+- **Security Operations & Management**: Monitoring systems, managing incidents, and ensuring overall security compliance
 <br>
 
 ## 🌍 Activities
